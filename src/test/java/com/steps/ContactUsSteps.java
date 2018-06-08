@@ -9,6 +9,7 @@ public class ContactUsSteps {
 	@Before
 	public void before() {
 		System.out.println("################");
+		System.out.println("***************");
 	}
 	
 	
